@@ -1,4 +1,4 @@
-# spot-light-react
+# spot-light-effect-react
 
 A React component that creates a spotlight effect on a canvas. Perfect for highlighting content or creating interactive visual effects in your React applications.
 
@@ -18,13 +18,13 @@ A React component that creates a spotlight effect on a canvas. Perfect for highl
 ## 📦 Installation
 
 ```bash
-npm install spot-light-react
+npm install spot-light-effect-react
 ```
 
 or
 
 ```bash
-yarn add spot-light-react
+yarn add spot-light-effect-react
 ```
 
 ---
@@ -32,7 +32,7 @@ yarn add spot-light-react
 ## 🚀 Usage
 
 ```jsx
-import SpotLight from 'spot-light-react';
+import SpotLight from 'spot-light-effect-react';
 
 function App() {
   return (

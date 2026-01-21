@@ -9,7 +9,7 @@ export default {
   output: {
     file: 'dist/bundle.js',
     format: 'umd',
-    name: 'SpotLightReact',
+    name: 'SpotLightEffectReact',
     sourcemap: true,
   },
   plugins: [
